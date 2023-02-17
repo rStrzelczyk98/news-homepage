@@ -16,13 +16,15 @@
 html {
   font-size: 62.5%;
   scroll-behavior: smooth;
-  -webkit-tap-highlight-color: transparent;
 }
 body {
   background-color: var(--offWhite);
   display: grid;
   justify-content: center;
   gap: 1.5rem;
+}
+a {
+  -webkit-tap-highlight-color: transparent;
 }
 .main-header,
 .container {
