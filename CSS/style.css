@@ -20,6 +20,7 @@ html {
 body {
   background-color: var(--offWhite);
   display: grid;
+  justify-content: center;
   gap: 1.5rem;
 }
 a {
