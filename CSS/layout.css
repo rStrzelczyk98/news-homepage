@@ -39,7 +39,7 @@
     position: relative;
     display: block;
     transform: translate(0);
-    transition: transform 500ms ease-in-out;
+    transition: none;
   }
   .nav.active {
     transform: translate(0);
