@@ -129,8 +129,8 @@ button {
   gap: 2rem;
 }
 .item {
-  font-weight: 700;
-  font-size: 1.5rem;
+  font-weight: 400;
+  font-size: 1.8rem;
   list-style: none;
 }
 .item a:is(:link, :visited) {
