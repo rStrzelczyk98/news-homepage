@@ -198,6 +198,12 @@ body {
   font-weight: 800;
   font-size: 3rem;
 }
+#new a {
+  border-bottom: 0.1rem solid var(--grayishBlue);
+}
+#new a:last-child {
+  border-bottom: none;
+}
 #new a:is(:link, :visited) {
   text-decoration: none;
 }
@@ -210,7 +216,6 @@ body {
   font-size: 1.8rem;
   margin-bottom: 1rem;
 }
-
 .new-article-preview p {
   color: var(--grayishBlue);
   max-width: 32ch;
@@ -218,12 +223,6 @@ body {
   font-size: 1.5rem;
   line-height: 1.8;
   margin-bottom: 3rem;
-}
-.new-article-preview {
-  border-bottom: 0.1rem solid var(--grayishBlue);
-}
-.new-article-preview:last-child {
-  border-bottom: none;
 }
 
 /* TOP */
