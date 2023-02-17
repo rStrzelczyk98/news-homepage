@@ -13,7 +13,7 @@ Users should be able to:
 
 ## Links
 
-- Live Site URL: [News Homepage] (https://rstrzelczyk98.github.io/news-homepage/)
+- Live Site URL: [News Homepage](https://rstrzelczyk98.github.io/news-homepage/)
 
 ## Built with
 
